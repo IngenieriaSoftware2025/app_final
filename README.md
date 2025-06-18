@@ -12,7 +12,7 @@ DB_SERVICE=1526
 DB_USER=656751
 DB_PASS=656751
 DB_SERVER=batzman_tcp
-DB_NAME=bd_alumnos
+DB_NAME=mdn_vasquez
 
 APP_NAME = "app-final"    
 
